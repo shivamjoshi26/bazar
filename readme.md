@@ -1,4 +1,4 @@
-README.md# bazar
+# bazar
 ## Installation
 Powershell(admin) for windows
 
