@@ -31,8 +31,8 @@ Git
 7.Interacting with the dapp in a browser:
 ```javascript
 1. Download metamask for chrome/firefox.
-2.Now we need to connect MetaMask to the blockchain created by Ganache.
-3.In the box marked Wallet Seed, enter the mnemonic that is displayed in Ganache.
+2. Now we need to connect MetaMask to the blockchain created by Ganache.
+3. In the box marked Wallet Seed, enter the mnemonic that is displayed in Ganache.
 4. Enter a password below that and click OK.
 5.Click the menu that shows "Main Network" and select Custom RPC.
 6.In the box titled "New RPC URL" enter http://127.0.0.1:7545 and click Save.
