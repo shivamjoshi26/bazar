@@ -25,10 +25,10 @@ Git
      ```javascript
      truffle migrate
      ```
-  6.Testing smart contracts 
+6.Testing smart contracts 
     ```truffle test```
 
-  7.Interacting with the dapp in a browser:
+7.Interacting with the dapp in a browser:
     ```javascript
 1. Download metamask for chrome/firefox.
 2. Now we need to connect MetaMask to the blockchain created by Ganache.
