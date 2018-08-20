@@ -1,6 +1,6 @@
 # bazar
 ## Installation
-
+Powershell(admin) for windows
 
 There are a few technical requirements before we start. Please install the following:
 
@@ -14,7 +14,8 @@ Git
 
 2. Download or clone. This also takes care of installing the necessary dependencies.
       
-3.  ```javascript
+3. Compile the files by entering
+    ```javascript
        truffle compile
     ```
 
