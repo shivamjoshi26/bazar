@@ -46,5 +46,6 @@ Warning: Do not use this mnemonic on the main Ethereum network (mainnet). If you
 
 Note: If the button doesn't automatically change to say ```"Success"```, refreshing the app in the browser should trigger it.
 
-```Refrences:
-Pet-shop-tutorial```
+```
+Refrences:
+Pet-shop-tutorial
