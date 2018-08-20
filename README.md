@@ -34,8 +34,8 @@ Git
 2. Now we need to connect MetaMask to the blockchain created by Ganache.
 3. In the box marked Wallet Seed, enter the mnemonic that is displayed in Ganache.
 4. Enter a password below that and click OK.
-5.Click the menu that shows "Main Network" and select Custom RPC.
-6.In the box titled "New RPC URL" enter http://127.0.0.1:7545 and click Save.
+5. Click the menu that shows "Main Network" and select Custom RPC.
+6. In the box titled "New RPC URL" enter http://127.0.0.1:7545 and click Save.
 Warning: Do not use this mnemonic on the main Ethereum network (mainnet). If you send ETH to any account generated from this mnemonic, you will lose it all!
  ```
  
@@ -44,6 +44,6 @@ Warning: Do not use this mnemonic on the main Ethereum network (mainnet). If you
     // Serves the front-end on http://localhost:3000
     npm run dev
     ```
-9.Click on buy and submit it.
+9.Click on ```buy``` and ```submit``` it.
 
-Note: If the button doesn't automatically change to say "Success", refreshing the app in the browser should trigger it.
+Note: If the button doesn't automatically change to say ```"Success"```, refreshing the app in the browser should trigger it.
