@@ -22,13 +22,11 @@ Git
 4. Before we can migrate our contract to the blockchain, we need to have a blockchain running. For this tutorial, we're going to use Ganache, a personal blockchain for Ethereum development you can use to deploy contracts, develop applications, and run tests. If you haven't already, download Ganache and double click the icon to launch the application. This will generate a blockchain running locally on port 7545.
 
 5. Back in our terminal, migrate the contract to the blockchain.
-     ```javascript
-     truffle migrate
-     ```
-6.Testing smart contracts 
+     ```javascript truffle migrate```
+6. Testing smart contracts 
     ```truffle test```
 
-7.Interacting with the dapp in a browser:
+7. Interacting with the dapp in a browser:
     ```javascript
 1. Download metamask for chrome/firefox.
 2. Now we need to connect MetaMask to the blockchain created by Ganache.
