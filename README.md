@@ -27,8 +27,8 @@ Git
      ```
 6.Testing smart contracts 
     ```javascript
-     truffle test
-     ```
+     truffle test```
+
 7.Interacting with the dapp in a browser:
     ```javascript
 1. Download metamask for chrome/firefox.
