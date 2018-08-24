@@ -1,131 +1,130 @@
 [
   {
     "id": 0,
-    "name": "CR7 Shirt",
-    "picture": "images/cr7.jpg",
-    "number": 3,
-    "prize": "10$",
-    "location": "Christiano,Tshirt"
+    "name": "I-PHONE",
+    "picture": "images/1.jpeg",
+    "price": 30000,
+    "location": "I-PHONE 6",
+    "avail": "4"
   },
   {
     "id": 1,
-    "name": "Puma",
-    "picture": "images/pumat.jpg",
-    "number": 3,
-    "prize": "25$",
-    "location": "Puma,Tshirt"
+    "name": "MOBILE CHARGER",
+    "picture": "images/2.jpeg",
+    "price": 3000,
+    "location": "CHARGER",
+    "avail": "9"
   },
   {
     "id": 2,
-    "name": "Blue shirt",
-    "picture": "images/denimshirt.jpg",
-    "number": 2,
-    "prize": "15$",
-    "location": "Denim,Shirt"
+    "name": "TRAVEL CASE",
+    "picture": "images/3.jpeg",
+    "price": 600,
+    "location": "TRAVEL CASE",
+    "avail": "3"
   },
   {
     "id": 3,
-    "name": "Nike shirt",
-    "picture": "images/niket.jpeg",
-    "number": 2,
-    "prize": "20$",
-    "location": "Black Nike,Tshirt"
+    "name": "T-SHIRT",
+    "picture": "images/4.jpeg",
+    "price": 2500,
+    "location": "T-SHIRT",
+    "avail": "10"
   },
   {
     "id": 4,
-    "name": "Coffee Mug",
-    "picture": "images/coffee.jpg",
-    "number": 2,
-    "prize": "10$",
-    "location": "Coffee, Mug"
+    "name": "JEANS",
+    "picture": "images/5.jpeg",
+    "price": 3000,
+    "location": "JEANS",
+    "avail": "5"
   },
   {
     "id": 5,
-    "name": "Hood",
-    "picture": "images/hood.jpg",
-    "number": 3,
-    "prize": "10$",
-    "location": "black,hood"
+    "name": "WRIST-WATCH",
+    "picture": "images/6.jpeg",
+    "price":6000,
+    "location": "WRIST-WATCH",
+    "avail": "7"
   },
   {
     "id": 6,
-    "name": "Denim short",
-    "picture": "images/short.jpg",
-    "number": 3,
-    "prize": "7$",
-    "location": "Denim,short"
+    "name": "PUMA",
+    "picture": "images/7.jpeg",
+    "price": 4000,
+    "location": "SPORTS SHOES",
+    "avail": "4"
   },
   {
     "id": 7,
-    "name": "Royal blue shirt",
-    "picture": "images/royals.jpeg",
-    "number": 13,
-    "prize": "10$",
-    "location": "Royal,shirt"
+    "name": "JOCKEY",
+    "picture": "images/8.jpeg",
+    "price": 2500,
+    "location": "SOCKS",
+    "avail": "7"
   },
   {
-    
     "id": 8,
-   "name": "Jakcet",
-    "picture": "images/jack.jpg",
-    "number": 2,
-    "prize": "8$",
-    "location": "Black,fluffly jacket"
+    "name": "CYCLE",
+    "picture": "images/9.jpeg",
+    "price": 1000,
+    "location": "HERO CYCLE",
+    "avail": "2"
   },
   {
     "id": 9,
-    "name": "Cap",
-    "picture": "images/cap.jpg",
-    "number": 3,
-    "prize": "5$",
-    "location": "Black, cap"
+    "name": "MILTON",
+    "picture": "images/10.jpeg",
+    "price": 800,
+    "location": "WATER-BOTTLE",
+    "avail": "12"
   },
   {
     "id": 10,
-    "name": "Denim Shirt",
-    "picture": "images/denimshirt.jpg",
-    "number": 2,
-    "prize": "15$",
-    "location": "Denim, shirt"
+    "name": "PANASONIC",
+    "picture": "images/11.jpeg",
+    "price": 2000,
+    "location": "IRON",
+    "avail": "8"
   },
   {
-     "id": 11,
-    "name": "Guitar",
-    "picture": "images/guitar.jpg",
-    "number": 3,
-    "prize": "12$",
-    "location": "electric, guitar"
+    "id": 11,
+    "name": "EAR-PLUGS",
+    "picture": "images/12.jpeg",
+    "price": 1500,
+    "location": "EAR-PLUGS",
+    "avail": "6"
   },
   {
     "id": 12,
-	"name": "Socks",
-    "picture": "images/socks.jpg",
-    "number": 4,
-    "prize": "5$",
-    "location": "socks, short"
+    "name": "SKYBAG",
+    "picture": "images/13.jpeg",
+    "price": 4000,
+    "location": "School Bag",
+    "avail": "8"
   },
   {
     "id": 13,
-    "name": "Nike Jacket",
-    "picture": "images/nikej.jpg",
-    "number": 2,
-    "prize": "20$",
-    "location": "Black, Jacket"
+    "name": "Boys-Wallet",
+    "picture": "images/14.jpeg",
+    "price": 3000,
+    "location": "WALLET",
+    "avail": "4"
   },
   {
     "id": 14,
-    "name": "Jeans",
-    "picture": "images/jeans.jpg",
-    "number": 2,
-    "prize": "30$",
-    "location": "Blue, Jeans"
+    "name": "PERFUME",
+    "picture": "images/15.jpeg",
+    "price": 3000,
+    "location": "BODY-SPRAY",
+    "avail": "4"
   },
   {
     "id": 15,
-     "name": "Watch",
-    "picture": "images/james_bond.jpg",
-    "number": 3,
-    "prize": "25",
-    "location": "Bond, Watch"
+    "name": "Terry",
+    "picture": "images/16.jpeg",
+    "price": 800,
+    "location": "EMERGENCY-LED",
+    "avail": "5"
   }
 ]
